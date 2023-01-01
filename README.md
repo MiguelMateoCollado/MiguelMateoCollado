@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my portfolio! I am excited to share my projects and hope to work together in the future. 👋
 
 I am a web development student at the Henry Academy with personal projects in development. I strive to learn and improve my skills in the field and am always looking for new opportunities to grow as a developer. I am committed to delivering high-quality projects and am eager to have the opportunity to apply my skills in a real work environment.
 
