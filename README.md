@@ -19,6 +19,8 @@ Full Stack Web DeveloperFull Stack Web Developer
 
 https://individual-project-0-0-1.vercel.app/
 
+https://cava-verdot-drl6fczrl-lucascserrate.vercel.app
+
 ### I'm currently learning
 
 Currently, I am focusing on improving my skills with JavaScript and React.js. I have been working on personal projects and taking online courses to learn more about these technologies and how to use them effectively. I am committed to continue learning and growing in my career as a web developer and am excited to apply my acquired skills to future projects.
