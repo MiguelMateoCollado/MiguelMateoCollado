@@ -25,6 +25,11 @@ Full Stack Web DeveloperFull Stack Web Developer
 
 Currently, I am focusing on improving my skills with JavaScript and React.js. I have been working on personal projects and taking online courses to learn more about these technologies and how to use them effectively. I am committed to continue learning and growing in my career as a web developer and am excited to apply my acquired skills to future projects.
 
+ ## Did you find it interesting? Contact me.
+ 
+ WS: 1 849-255-5041 / wa.link/l3i8qo
+ E-mail: miguelangelmateocollado@gmail.com
+
 <!--
 **MiguelMateoCollado/MiguelMateoCollado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
