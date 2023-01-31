@@ -27,8 +27,8 @@ Currently, I am focusing on improving my skills with JavaScript and React.js. I 
 
  ## Did you find it interesting? Contact me.
  
- WS: 1 849-255-5041 / wa.link/l3i8qo
- E-mail: miguelangelmateocollado@gmail.com
+ • WS: 1 849-255-5041 / wa.link/l3i8qo
+ • E-mail: miguelangelmateocollado@gmail.com
 
 <!--
 **MiguelMateoCollado/MiguelMateoCollado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
