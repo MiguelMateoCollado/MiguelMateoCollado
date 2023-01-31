@@ -4,18 +4,18 @@ I am a web development student at the Henry Academy with personal projects in de
 
 Full Stack Web DeveloperFull Stack Web Developer
 
--Agile Methodologies (Scrum). /n
--Teamwork./n
--HTML5, CSS3, JavaScript. /n
--React JS, Redux. /n
--GitHub. /n
--Bootstrap. /n
--Node JS. /n
--Express JS. /n
--PostgreSQL. /n
--MongoDB./n
--Firebase./n
--Typescript./n
+-Agile Methodologies (Scrum). 
+-Teamwork.
+-HTML5, CSS3, JavaScript. 
+-React JS, Redux. 
+-GitHub. 
+-Bootstrap. 
+-Node JS. 
+-Express JS. 
+-PostgreSQL. 
+-MongoDB.
+-Firebase.
+-Typescript.
 
 ### I am proud of my projects and hope to have the opportunity to share my skills with more projects in the future.
 
