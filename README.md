@@ -19,7 +19,7 @@ Full Stack Web DeveloperFull Stack Web Developer
 ```
 ### I am proud of my projects and hope to have the opportunity to share my skills with more projects in the future.
 * (https://individual-project-0-0-1.vercel.app/)
-* (https://cava-verdot-drl6fczrl-lucascserrate.vercel.app/)
+* (https://cava-verdot.vercel.app/)
 
 ### I'm currently learning
 
