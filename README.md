@@ -18,6 +18,7 @@ Full Stack Web DeveloperFull Stack Web Developer
 • Typescript.
 • Vue JS.
 • Nuxt.
+• Tailwind CSS.
 ```
 ### I am proud of my projects and hope to have the opportunity to share my skills with more projects in the future.
 * (https://individual-project-0-0-1.vercel.app/)
