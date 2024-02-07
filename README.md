@@ -21,8 +21,7 @@ Full Stack Web DeveloperFull Stack Web Developer
 • Tailwind CSS.
 ```
 ### I am proud of my projects and hope to have the opportunity to share my skills with more projects in the future.
-* (https://individual-project-0-0-1.vercel.app/)
-* (https://cava-verdot.vercel.app/)
+* (https://videogames.mmateo.com)
 
 ### I'm currently learning
 
