@@ -1,13 +1,17 @@
 
-### Who am I?
+### <h1>Who am I?</h1>
 
-As a passionate programmer, I am determined to build a flourishing career in the tech industry. My fascination with technology developed at an early age, sparked by my father's work fixing computers. I remember playing video games on his hard drives, which ignited my curiosity and led me to pursue programming.
-
+<p style="font-size: 1.2rem">
+As a passionate programmer, I am determined to build a flourishing career in the tech industry. My fascination with technology developed at an early age, sparked by my father's work fixing computers. I remember playing video games on his hard drives, which ignited my curiosity and led me to pursue programming.</p>
+<p style="font-size: 1.2rem">
 My name is Miguel Mateo, and I am a Full Stack developer with expertise in both front-end and back-end development. I am convinced that excelling in both areas is essential, as it allows me to take on new challenges and adapt to emerging technologies with ease.
-
+</p>
+<p style="font-size: 1.2rem">
 My favorite technologies are React, TailwindCSS, and Node.js, and I devote my evenings to learning and experimenting with new technologies. In addition to my proficiency in these areas, I am currently learning Rust, which will enhance my skills even further.
+</p>
 
-I welcome you to explore my repository, and I am confident that you will be impressed with my work. Thank you for taking the time to read my profile, and I look forward to the opportunity to work with you.
+<p style="font-size: 1.2rem">
+I welcome you to explore my repository, and I am confident that you will be impressed with my work. Thank you for taking the time to read my profile, and I look forward to the opportunity to work with you.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMateoCollado&show_icons=true&theme=transparent)
 
